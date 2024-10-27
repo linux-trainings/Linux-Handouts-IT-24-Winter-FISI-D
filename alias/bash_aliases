@@ -4,7 +4,6 @@
 alias a=alias
 alias cl=clear
 alias h=history
-alias h0='history 0'
 alias l='ls -l'
 alias la='ls -al'
 alias cx='chmod u+x'
